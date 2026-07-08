@@ -32,6 +32,7 @@ build/
 
 # Secrets
 src/main/resources/application.properties
+.env
 
 # Build
 target/
